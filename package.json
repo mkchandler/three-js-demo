@@ -1,0 +1,10 @@
+{
+  "name": "three-js-demo",
+  "version": "0.0.1",
+  "author": "Matt Chandler <mkchandler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.0.0",
+    "logfmt": "~1.1.2"
+  }
+}
